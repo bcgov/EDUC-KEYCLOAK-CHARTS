@@ -3,12 +3,12 @@ entries:
   educ-keycloak:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-01T19:08:49.596577-07:00"
+    created: "2024-10-01T22:22:35.1304846-07:00"
     description: A Helm chart for Kubernetes
     digest: 9deb0535dfc50250df21322c8fd118f2047fc097132a46470663c5b88b6e3d92
     name: educ-keycloak
     type: application
     urls:
-    - https://github.com/bcgov/EDUC-KEYCLOAK-CHARTS/educ-keycloak-0.1.0.tgz
+    - https://bcgov.github.io/educ-keycloak-charts/educ-keycloak-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-01T19:08:49.5883624-07:00"
+generated: "2024-10-01T22:22:35.1199008-07:00"
